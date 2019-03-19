@@ -86,8 +86,7 @@
                 <hr>
                 <ul class="stack-list">
                     <li>
-                        <label class="left-label">前端</label><span class="label-value">html,css,css3,jQuery、vue.js</span
-                            ></li>
+                        <label class="left-label">前端</label><span class="label-value">html,css,css3,jQuery、vue.js</span>
                     </li>
                     <li>
                         <label class="left-label">打包工具</label><span class="label-value">gulp,webpack</span>
@@ -210,6 +209,3 @@
                     </li>
                 </ul>
             </div>
-        </div>
-</body>
-</html>
