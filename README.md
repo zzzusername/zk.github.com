@@ -92,14 +92,11 @@
                     <li>
                         <label class="left-label">打包工具</label><span class="label-value">gulp,webpack</span>
                     </li>
-                    </li>
                     <li>
                         <label class="left-label">代码控制</label><span class="label-value">git,svn</span>
                     </li>
-                    </li>
                     <li>
                         <label class="left-label">其他</label><span class="label-value">webstorm, vscode,ps</span>
-                    </li>
                     </li>
                 </ul>
             </div>
@@ -214,6 +211,5 @@
                 </ul>
             </div>
         </div>
-    </div>
 </body>
 </html>
