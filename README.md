@@ -5,7 +5,14 @@
     <link rel="stylesheet" href="static/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal-default-theme.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <style>
+        .left-label{
+            width: 95px
+        }
+        .label-value{
+            width: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -41,9 +48,9 @@
                 <hr>
                 <ul class="info-list">
                     <li>
-                        <label class="left-label">手机</label><span class="label-value">15116965196</span></li>
+                        <label class="left-label">手机</label><span class="label-value">15116965196</span>
                     <li>
-                        <label class="left-label">邮箱</label><span class="label-value">zk980398878@163.com</span></li>
+                        <label class="left-label">邮箱</label><span class="label-value">zk980398878@163.com</span>
                     <li>
                 </ul>
             </div>
