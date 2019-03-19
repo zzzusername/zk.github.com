@@ -122,7 +122,7 @@
                         <p>互联网外包公司，主要接触一些电商网站项目。
                         </p>
                     </li>
-                </ul class="experience-list">
+                </ul>
             </div>
             <div class="project info-unit right-list">
                 <h2 class="info-header"><i class="iconfont icon-project"></i> <span class="info-title">个人参与项目</span></h2>
