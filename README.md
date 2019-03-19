@@ -142,16 +142,19 @@
                 </ul>
             </div>
             <div class="aboutme info-unit right-paragraph">
-                <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title">自我评价</span></h2>
+                <h2 class="info-header"><i class="iconfont icon-project"></i> <span class="info-title">自我评价</span></h2>
                 <hr>
-                <p>
-                三年开发经验 有较强的学习能力; <br>
-                性格开朗 为人诚恳 乐观向上 有较强的适应能力的 有自制力 做事情有始有终 ;<br>
-                工作严谨踏实 认真负责 有较强的共事协作能力;<br>
-                </p>
+                <ul class="experience-list">
+                    <li>
+                        <p>
+                            三年开发经验 有较强的学习能力; <br>
+                            性格开朗 为人诚恳 乐观向上 有较强的适应能力的 有自制力 做事情有始有终 ;<br>
+                            工作严谨踏实 认真负责 有较强的共事协作能力;<br>
+                        </p>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
 </body>
-
 </html>
