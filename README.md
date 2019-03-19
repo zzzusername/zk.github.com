@@ -12,6 +12,9 @@
         .label-value{
             width: auto;
         }
+        .container{
+            height: auto;
+        }
     </style>
 </head>
 
@@ -81,22 +84,28 @@
                 <hr>
                 <ul class="stack-list">
                     <li>
-                        <label class="left-label">前端</label><span class="label-value">html,css,css3,jQuery、vue.js</span></li>
+                        <label class="left-label">前端</label><span class="label-value">html,css,css3,jQuery、vue.js</span
+                            ></li>
                     </li>
                     <li>
-                        <label class="left-label">打包工具</label><span class="label-value">gulp,webpack</span></li>
+                        <label class="left-label">打包工具</label><span class="label-value">gulp,webpack</span>
+                    </li>
                     </li>
                     <li>
-                        <label class="left-label">代码控制</label><span class="label-value">git,svn</span></li>
+                        <label class="left-label">代码控制</label><span class="label-value">git,svn</span>
+                    </li>
+                    </li>
+                    <li>
+                        <label class="left-label">其他</label><span class="label-value">webstorm, vscode,ps</span>
+                    </li>
                     </li>
                 </ul>
             </div>
             <div class="code info-unit">
-                <h2 class="info-header"><i class="iconfont icon-weixin"></i> <span class="info-title">个人微信</span></h2>
+                <h2 class="info-header"><i class="iconfont icon-weixin"></i><span class="info-title">个人微信</span></h2>
                 <hr>
                 <div class="weixin">
                     <img src="static/image/weixin.png" alt="">
-
                 </div>
             </div>
         </div>
@@ -139,6 +148,54 @@
                             使用sessionStorage/localStorage 记录用户浏览信息<br>
                         </p>
                     </li>
+                    <li>
+                        <h3>侃家网(后台系统)</h3>
+                        <h4>责任描述:</h4>
+                        <p>
+                            1、构建静态模板 html+css 2、复杂的js效果，和插件的使用 3、前后台数据交互
+                            <br />
+                        </p>
+                        <h5>技术要点:</h5>
+                        <p>
+                            1、 使用 rem 解决移动端适配问题 <br>
+                            2、 使用js实现后台交互效果<br>
+                            3、 使用gulp管理开发目录<br>
+                            4、 使用ajax实现前后端的json数据交互 5、 使用Css3 实现 旋转 放大等 动画效果 6、 使用 日期插件完成日期选取和数据交互<br>
+                        </p>
+                    </li>
+                    <li>
+                        <h3>侃家网(服务号开发和微信后台管理系统)</h3>
+                        <h4>责任描述:</h4>
+                        <p>
+                            1、搭建vue 开发架构 2、使用微信sdk 完成 微信支付功能 3、处理微信后台返回的数据
+                            <br />
+                        </p>
+                        <h5>技术要点:</h5>
+                        <p>
+                            1、 使用vue-cli 搭建vue开发环境<br> 2、使用vue-swiper实现动画效果<br>
+                             3、使用axios完成前后台数据交互<br> 4、使用html+css构建页面基本结构<br>
+                            5、 使用 微信sdk 完成 微信分享，打赏功能。<br> 6、 使用 插件 完成 图片上传功能。
+                        </p>
+                    </li>
+                    <li>
+                        <h3>米莱商城(外包项目）</h3>
+                        <h4>责任描述:</h4>
+                        <p>
+                            1、 负责PC端静态页面实现
+                            2、 处理兼容性问题
+                            3、 对网站进行优化 增加用户体验
+                            <br />
+                        </p>
+                        <h5>技术要点:</h5>
+                        <p>
+                        1、 手写 html和css实现页面布局<br>
+                        2、 使用固定定位实现 侧边固定效果 3、 使用less 共同样式抽取<br>
+                        4、 使用jQuery 完成选项卡的切换效果 <br>5、 使用 Js 操作实现图片懒加载 6、使用 iconfont 实现矢量图标<br>
+                        7、 使用 css 给图片添加遮罩效果<br>
+                        8、 使用Swiper 框架 实现 循环轮播 效果<br> 9、 使用cookie存储用户状态信息。<br>
+                        10、 SEO优化
+                        </p>
+                    </li>
                 </ul>
             </div>
             <div class="aboutme info-unit right-paragraph">
@@ -155,6 +212,5 @@
                 </ul>
             </div>
         </div>
-    </div>
 </body>
 </html>
